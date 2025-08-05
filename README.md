@@ -1,8 +1,4 @@
-Thank you for the clarification, Safia! Based on how I gave you README and LinkedIn content for **Task 1 (House Prices EDA)** and **Task 2 (Customer Segmentation)**, here is the **complete and structured README** and **LinkedIn content** for **Task 3: Cats vs Dogs Classification using SVM (Color Images)** — exactly in that clean, presentable format:
-
----
-
-## ✅ README.md for Task 3 – Cats vs Dogs Classification using SVM
+Task 3 – Cats vs Dogs Classification using SVM
 
 You can copy-paste this into your `README.md` file in your GitHub repository:
 
