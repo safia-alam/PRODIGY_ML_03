@@ -1,9 +1,3 @@
-Task 3 – Cats vs Dogs Classification using SVM
-
-You can copy-paste this into your `README.md` file in your GitHub repository:
-
----
-
 # 🐱🐶 Cats vs Dogs Classification using SVM (Task 3 – Prodigy InfoTech)
 
 ### 🔍 Internship Task – Prodigy InfoTech
@@ -17,13 +11,6 @@ This project involves building a machine learning model using **Support Vector M
 
 * **Source**: [Kaggle Cats vs Dogs Dataset](https://www.kaggle.com/datasets)
 
-* **Structure**:
-
-  ```
-  train/
-  ├── cats/
-  └── dogs/
-  ```
 
 * **Images**: JPEG images of varying dimensions
 
